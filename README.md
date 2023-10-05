@@ -2,7 +2,7 @@ Power-BI-End-To-End-Project>
 
 *Analyzed Ecommerce Sales Data creating an interactive dashboard using Power BI.
 
-Project Learnings- 
+Project Learnings-
 1. Created interactive dashboard to track and analyze online sales data.
 
 2.Used complex parameters to drill down in worksheet and customization using filters and slicers.
